@@ -2,10 +2,8 @@ This is a collection of examples for how to use and extend TensorFlow.
 
 ##An advanced example
 
-This example shows the use of the low level function tf.gradients() 
-[](http://tensorflow.org/api_docs/python/train.html#gradients)
-The definiton of function R=R(x,y) is taken from the example on Wiki 
-[](https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm)
+This example shows the use of the low level function [tf.gradients()](http://tensorflow.org/api_docs/python/train.html#gradients)
+The definiton of function R=R(x,y) is taken from the example on [this Wiki page](https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm)
 If you are interested in creating new Optimizers for Tensorflow 
 you may want to continue reading this example.
 ```python
@@ -28,9 +26,7 @@ print result
 #[0.12484978]
 ``` 
 
-The above example actually is implemented in SymJava which provides symbolic-numeric
-computations with just-in-time (JIT) compilation.
-[](https://github.com/yuemingl/SymJava/blob/master/src/symjava/examples/Example0.java)
+The above example actually is implemented in [SymJava](https://github.com/yuemingl/SymJava/blob/master/src/symjava/examples/Example0.java) which provides symbolic-numeric computations with just-in-time (JIT) compilation.
 ```Java
 public class Example0 {
 	public static void main(String[] args) {
