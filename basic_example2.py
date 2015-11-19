@@ -23,6 +23,6 @@ print sess.run(tf.matmul(m2,m1))
 # The operator overloading is not correctly supported now.
 # The follow will return the same result
 print sess.run(m1*m2)
-print sess.run(m1*m2)
+print sess.run(m2*m1)
 #[[ 3.  3.]
 # [ 6.  6.]]
