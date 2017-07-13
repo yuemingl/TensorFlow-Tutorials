@@ -1,16 +1,24 @@
 This is a collection of examples for how to use and extend TensorFlow.
 
 ##Deep learning materials
+
 ###CNN
+
 http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+http://cs231n.github.io/convolutional-networks/
 
 ###RNN
+
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+
 ####LSTM
+
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 
 ###CUDA
+
 https://devblogs.nvidia.com/parallelforall/easy-introduction-cuda-c-and-c/
 
 
