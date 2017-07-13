@@ -6,6 +6,8 @@ This is a collection of examples for how to use and extend TensorFlow.
 
 http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
 http://cs231n.github.io/convolutional-networks/
+http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
 ### RNN
 
