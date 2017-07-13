@@ -1,5 +1,25 @@
 This is a collection of examples for how to use and extend TensorFlow.
 
+##Deep learning materials
+###CNN
+http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+
+###RNN
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+####LSTM
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+###CUDA
+https://devblogs.nvidia.com/parallelforall/easy-introduction-cuda-c-and-c/
+
+
+###People & Blog
+https://twitter.com/dennybritz
+http://www.kentran.net/
+http://eli.thegreenplace.net/
+http://blog.dennybritz.com/
+
 ##An advanced example
 
 This example shows the use of the low level function [tf.gradients()](http://tensorflow.org/api_docs/python/train.html#gradients)
